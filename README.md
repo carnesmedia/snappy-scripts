@@ -1,0 +1,2 @@
+- Web Snapper must be installed
+- Configure `.env` with correct values (start by `mv env.example .env`)
